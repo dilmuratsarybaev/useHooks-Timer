@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useHooks-Timer/static/css/main.073c9b0a.css",
+    "main.js": "/useHooks-Timer/static/js/main.da96e315.js",
+    "index.html": "/useHooks-Timer/index.html",
+    "main.073c9b0a.css.map": "/useHooks-Timer/static/css/main.073c9b0a.css.map",
+    "main.da96e315.js.map": "/useHooks-Timer/static/js/main.da96e315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.da96e315.js"
+  ]
+}
